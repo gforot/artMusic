@@ -1,0 +1,78 @@
+Starts: Jan 31, 2014 00:00:00 Utc
+Expires: Feb 28, 2014 23:59:59 Utc
+YOU ARE FOLLOWING THIS CHALLENGE.
+Summary:
+
+Use the features of the Nokia MixRadio API to create a game that will test users knowledge of album and single covers.
+
+Conditions:
+
+Using the Nokia MixRadio APIs, create a game that present the user with a portion of the image associated with a MixRadio product and allow them to guess the album/single/track name; artist name; or genre to score points, or reveal more of the picture.
+
+This app must provide the following additional features:
+
+Award different levels of points for the type of guess (most for correct album/track, least for genre, reducing as more of the product picture is revealed.
+Provide the user with a high score table including:
+number of guesses made.
+Percentage of correct guesses on album/track, artist, and genre
+Top 5 most accurately guessed artists and genres (so that a correct title guess includes a correct artist guess and genre guess, and a correct artist guess includes a correct genre guess)
+The ability to reset the high score information.
+Include at least one background image captured or created by you.
+Include an about screen describing the app and its features as well as a feedback mechanism.
+When the user chooses to end the game, display a simple attribution  and link to the Nokia MixRadio app.
+In addition, as other developers will be taking this challenge, consider how to incorporate unique or differentiating features in your app so it stands out from the crowd in the app store.
+
+Your game must make use of Nokia MixRadio APIs and it must work on Windows Phone 8.
+
+In addition to the specific challenge features, your game must:
+
+Employ Fast App Switching.
+Include all three sizes of Live Tiles.
+Include a Primary or Secondary Live Tile, which must flip; cycle; animate; count; or update in any manner with data; images; or text. The tile animation must start as soon as the tile is pinned and any secondary tile must be available from the main Application Bar
+Follow the Windows Phone Design Language.
+Support ALL Windows Phone 8 screen resolutions.
+Your game should be made available only in those countries that offer the Nokia Music service. At the time of writing the countries supporting Nokia Music are:
+
+Australia
+Austria
+Brazil
+Canada
+China
+Finland
+France
+Germany
+India
+Indonesia
+Ireland
+Italy
+Malaysia
+Mexico
+Netherlands
+Norway
+Poland
+Portugal
+Russia
+Saudi Arabia
+Singapore
+South Africa
+Spain
+Sweden
+Switzerland
+Thailand
+Turkey
+UAE
+UK
+USA
+Vietnam
+ 
+You can earn XP for one game only in this challenge, once you have earned XP you’ll no longer be able to submit games to this challenge.
+
+Games submitted to this challenge must be NEW and first published on the Windows Phone Store after the Challenge’s start date but before the Challenge’s end date. The game must be new and not previously published in a similar form.
+
+Games submitted to this challenge must include an English language localization and be available in the US store.
+
+Games submitted to this challenge and awarded XP will not be accepted for any other App or Game challenge, but may be resubmitted for Update and Quality challenges.
+
+Games submitted to this challenge must be your original work. If you incorporate other software to create your games or games, you must comply with the terms and conditions applying to the use of that other software.
+
+Please remember to allow time for your games to be published in Windows Phone Store and show on DVLUP.com. You are responsible for ensuring that your games is submitted on time. There will be no time extension to this challenge.
